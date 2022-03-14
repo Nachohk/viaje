@@ -1,0 +1,101 @@
+
+footer {
+    background-color:#0785da;
+    font-family: "Cabin";
+    font-size: 30pt;
+    color: rgb(255, 255, 255);
+   
+}
+
+#Receta {
+    text-align: left;
+    font-family: "Cabin";
+    color: #373A3C;
+}
+
+#Receta h2{
+    text-align: left;
+    font-family: "Cabin";
+    font-size: 20pt;
+}
+
+#Susc {
+    background-color:#000000 ;
+}
+
+#Susc h1{
+    font-family: "Cabin" ;
+}
+
+#Susc p{
+    font-family: "Cabin";
+}
+
+#recetasrelacionadas h1 {
+    font-family: "Cabin";
+    color:#373A3C ;
+}
+
+#Pizza h1 {
+    font-family: "Cabin";
+    font-size: 30pt;
+    text-align: left;
+}
+
+#Pizza h2 {
+    font-family: "Cabin";
+    font-size: 20pt;
+    text-align: left;
+    font-weight: 10;
+}
+#pp {
+    font-family: "Lobster";
+    font-size: 20pt;
+    color: aliceblue;
+}
+
+#Pizza h3 {
+    font-family: "Cabin";
+    font-size: 16pt;
+}
+
+.my-carousel {
+    margin-top: -150px; 
+}
+
+.my-navbar {
+  z-index: 99;
+}
+
+.imagenv {
+    width: 40px;
+}
+
+.trn {
+    background: transparent !important;
+}
+
+i {
+    color: rgb(240, 240, 247);
+    font-size: 2rem;
+    padding: 5px;
+}
+
+.centraricon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.cardcolor {
+    background-color: #0785da;
+}
+
+#destacados {
+    background-color: #000000;
+    color: aliceblue;
+}
+
+.imgdif {
+    margin-bottom: -20px;
+}
